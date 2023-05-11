@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\NetCoreBackend-master",
+    "\\NetCoreBackend-master\\Core",
+    "\\NetCoreBackend-master\\Core\\Aspects",
+    "\\NetCoreBackend-master\\Core\\Aspects\\Autofac",
+    "\\NetCoreBackend-master\\Core\\CrossCuttingConcerns",
+    "\\NetCoreBackend-master\\Core\\Extensions",
+    "\\NetCoreBackend-master\\Core\\Utilities"
+  ],
+  "SelectedNode": "\\NetCoreBackend-master\\Core\\Extensions\\ExceptionMiddlewareExtensions.cs",
+  "PreviewInSolutionExplorer": false
+}
